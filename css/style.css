@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-color: linear-gradient(to bottom right, red, yellow)
+  background-color: linear-gradient (to bottom right, red, yellow)
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, Times New Roman;
