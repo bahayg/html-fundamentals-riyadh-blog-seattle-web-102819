@@ -6,8 +6,7 @@ html, body {
 }
 
 body {
-  background: blue;
-  background:;
+  background-color: linear-gradient(to bottom right, red, yellow)
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, Times New Roman;
